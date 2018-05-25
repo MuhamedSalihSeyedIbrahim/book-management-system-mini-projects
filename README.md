@@ -14,7 +14,7 @@ The basic functionalities include
    
 Requirements:
 
-1. NODEJS LTS Version
+1. NODEJS latest Version
 2. NPM
 3. MySQL
 4. other supplimentry modules and library
