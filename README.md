@@ -1,7 +1,7 @@
 # BookManagementSystem-MiniProjects
 The miniproject is developed in nodejs to understand <br/>
 the concepts and the methods of nodejs<br/>
-This project is a contribution to arjunsk/php-library-management-system who developed the project in (php) <br/>
+This project is a updation to arjunsk/php-library-management-system who developed the project in (php) <br/>
 
 ![Image](http://i1.wp.com/www.arjunsk.com/wp-content/uploads/2016/02/Untitled-2-1.png)
 
