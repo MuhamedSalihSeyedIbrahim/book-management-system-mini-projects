@@ -18,3 +18,8 @@ Requirements:
 2. NPM
 3. MySQL
 4. other supplimentry modules and library
+
+Instruction
+ 1. download the git and extract 
+ 2. change directory to the folder
+ 3. use node index.js command to run project
